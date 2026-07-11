@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692046230463",
+    "project_id": "family-shield-fea9a",
+    "storage_bucket": "family-shield-fea9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692046230463:android:b5b89028f3247e235e270a",
+        "android_client_info": {
+          "package_name": "ru.familyshield.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFzi-5_QtkHhLir9qM6t0lietrQgvvN0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

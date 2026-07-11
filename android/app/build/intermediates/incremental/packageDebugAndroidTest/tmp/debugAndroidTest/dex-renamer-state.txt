@@ -1,0 +1,7 @@
+#Mon Jun 29 19:25:45 YEKT 2026
+base.0=C\:\\Users\\user\\Desktop\\family-shield\\android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\user\\Desktop\\family-shield\\android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\12\\classes.dex
+path.0=0/classes.dex
+path.1=12/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,4 @@
+ru.familyshield.app.test.app-androidTest-0 C:\Users\user\Desktop\family-shield\android\app\build\generated\res\resValues\androidTest\debug
+ru.familyshield.app.test.app-mergeDebugAndroidTestResources-1 C:\Users\user\Desktop\family-shield\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+ru.familyshield.app.test.app-mergeDebugAndroidTestResources-2 C:\Users\user\Desktop\family-shield\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+ru.familyshield.app.test.app-debugAndroidTest-3 C:\Users\user\Desktop\family-shield\android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

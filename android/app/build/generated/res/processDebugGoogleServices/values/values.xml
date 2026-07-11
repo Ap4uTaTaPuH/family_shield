@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">692046230463</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFzi-5_QtkHhLir9qM6t0lietrQgvvN0Q</string>
+    <string name="google_app_id" translatable="false">1:692046230463:android:b5b89028f3247e235e270a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFzi-5_QtkHhLir9qM6t0lietrQgvvN0Q</string>
+    <string name="google_storage_bucket" translatable="false">family-shield-fea9a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">family-shield-fea9a</string>
+</resources>
