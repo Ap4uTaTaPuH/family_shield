@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.db
+secrets/
+android/.idea/
+call_log.txt
+android/local.properties
+android/.idea/
+*.pem
+# Build/run logs
+android/build-last.log
+android/**/build-last.log
+
+# Firebase config (содержит API-ключ)
+android/app/google-services.json
+android/relative-current.png
+android/relative-home-alert-dark.png
+android/relative-home-alert.png
+check-9.6.ps1
+backend.log
